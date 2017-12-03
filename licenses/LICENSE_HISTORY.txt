@@ -1,0 +1,6 @@
+Original website theme is: https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/
+It was licensed under MIT license.
+
+Current site is licensed under Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0).
+
+Business content (except original template CSS, HTML, etc) of this site is copyrighted and cannot be reproduced without explicit written permission by Oleg Chirukhin.
